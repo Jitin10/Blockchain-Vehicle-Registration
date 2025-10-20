@@ -26,6 +26,14 @@ A full-stack decentralized application (DApp) for registering vehicles and manag
 
 ---
 
+## 👥 Contributors
+
+A special thanks to the following people who contributed to this project:
+
+* **[Shruti Patil](https://github.com/shruti182004)** 
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Backend (Smart Contract)
