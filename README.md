@@ -12,7 +12,8 @@ A full-stack decentralized application (DApp) for registering vehicles and manag
 
 ## 📸 Screenshot
 
-![DApp Screenshot](https://i.imgur.com/uR1dO9n.png)
+![DApp Screenshot](image2.png)
+![DApp Screenshot](image1.png)
 
 ---
 
